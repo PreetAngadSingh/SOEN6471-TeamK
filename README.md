@@ -1,8 +1,5 @@
 # SOEN6471-TeamK
 
-# Task Allotment for OpenArch project
-
-
 
 ### Team members: 
 1. Preet Angad Singh Nanda
